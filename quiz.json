@@ -279,6 +279,7 @@
             {"range": "30", "description": "Expert in ancient history!"}
         ],
         "detailedResults": {
+        "scoreDescription": [
             "displayCount": True,  # To display count of correct/incorrect answers
             "correctCountText": "Correct answers: ",
             "incorrectCountText": "Incorrect answers: "
