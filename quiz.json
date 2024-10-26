@@ -270,6 +270,18 @@
         "Map"
       ],
       "correctAnswerIndex": 0
-    }
+    },
+        "resultScoring": {
+        "scoreDescription": [
+            {"range": "0-10", "description": "Keep studying!"},
+            {"range": "11-20", "description": "Good effort!"},
+            {"range": "21-29", "description": "Well done!"},
+            {"range": "30", "description": "Expert in ancient history!"}
+        ],
+        "detailedResults": {
+            "displayCount": True,  # To display count of correct/incorrect answers
+            "correctCountText": "Correct answers: ",
+            "incorrectCountText": "Incorrect answers: "
+        }
   ]
 }
