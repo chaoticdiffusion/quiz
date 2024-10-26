@@ -1,0 +1,275 @@
+{
+  "shortDescription": "Test your knowledge of ancient history!",
+  "questions": [
+    {
+      "question": "Who founded Rome?",
+      "answers": [
+        "Romulus",
+        "Julius",
+        "Caesar"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What was Cleopatra's title?",
+      "answers": [
+        "Queen",
+        "Emperor",
+        "Pharaoh"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Who built the pyramids?",
+      "answers": [
+        "Egyptians",
+        "Romans",
+        "Greeks"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the Sphinx?",
+      "answers": [
+        "Statue",
+        "Palace",
+        "Temple"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where was Sparta?",
+      "answers": [
+        "Greece",
+        "Rome",
+        "Egypt"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is cuneiform?",
+      "answers": [
+        "Writing",
+        "Tool",
+        "God"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What was the Colosseum?",
+      "answers": [
+        "Arena",
+        "Temple",
+        "Library"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was Alexander?",
+      "answers": [
+        "King",
+        "Priest",
+        "Builder"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What was Mesopotamia?",
+      "answers": [
+        "Region",
+        "City",
+        "Empire"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was Hammurabi?",
+      "answers": [
+        "King",
+        "God",
+        "Warrior"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the Iliad?",
+      "answers": [
+        "Epic",
+        "Poem",
+        "Song"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Where is Troy?",
+      "answers": [
+        "Turkey",
+        "Greece",
+        "Egypt"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who built Stonehenge?",
+      "answers": [
+        "Druids",
+        "Romans",
+        "Greeks"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What was an oracle?",
+      "answers": [
+        "Prophet",
+        "Healer",
+        "King"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was Confucius?",
+      "answers": [
+        "Philosopher",
+        "Warrior",
+        "King"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the Acropolis?",
+      "answers": [
+        "Fortress",
+        "Temple",
+        "Market"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where was Carthage?",
+      "answers": [
+        "Tunisia",
+        "Italy",
+        "Greece"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was Nero?",
+      "answers": [
+        "Emperor",
+        "General",
+        "Pharaoh"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What was the Parthenon?",
+      "answers": [
+        "Temple",
+        "Castle",
+        "Arena"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What was the Great Wall?",
+      "answers": [
+        "Fortification",
+        "Palace",
+        "Bridge"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was Homer?",
+      "answers": [
+        "Poet",
+        "General",
+        "Philosopher"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is hieroglyphics?",
+      "answers": [
+        "Script",
+        "Tool",
+        "Monument"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What was Pompeii?",
+      "answers": [
+        "City",
+        "Fort",
+        "Temple"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was Socrates?",
+      "answers": [
+        "Philosopher",
+        "King",
+        "Warrior"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where was Babylon?",
+      "answers": [
+        "Iraq",
+        "Egypt",
+        "Iran"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What was Persepolis?",
+      "answers": [
+        "Capital",
+        "Temple",
+        "Village"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is papyrus?",
+      "answers": [
+        "Paper",
+        "Tool",
+        "Cloth"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What was the Pantheon?",
+      "answers": [
+        "Temple",
+        "Arena",
+        "Palace"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was Ramses?",
+      "answers": [
+        "Pharaoh",
+        "King",
+        "Warrior"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the Rosetta Stone?",
+      "answers": [
+        "Artifact",
+        "Temple",
+        "Map"
+      ],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
